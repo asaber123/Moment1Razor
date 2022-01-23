@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <header>
+        <div class="logo"> <h1>Logo</h1></div>
+        <div class="date"> <p>Dagens datum är:</p></div>
+    </header>
+    <main>
+        <div class="sidebar">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="/">Startsida</a>
+                    </li>
+                    <li>
+                        <a href="/About">Om sidan</a>
+                    </li>
+                    <li>
+                        <a href="/Razor">Razor</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="main-container">
+            @RenderBody()
+        </div>
+    </main>
+    <footer>
+        <div>Av: Åsa Berglund - Kontakta mig via e-post: asbe2001@student.miun.se</div>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

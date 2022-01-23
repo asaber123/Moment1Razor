@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "3V4Of+3F6WhqqIq3zGLb2jaiPPf1thx3jahgv6nzZyE=",
+  "Source": "Moment1",
+  "BasePath": "_content/Moment1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Moment1/wwwroot",
+      "Source": "Moment1",
+      "ContentRoot": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/",
+      "BasePath": "_content/Moment1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/css/styles.css",
+      "SourceId": "Moment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/",
+      "BasePath": "_content/Moment1",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
+      "Identity": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/js/main.js",
+      "SourceId": "Moment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/",
+      "BasePath": "_content/Moment1",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/main.js"
+    }
+  ]
+}
