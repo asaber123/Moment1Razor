@@ -14,13 +14,12 @@
         "outputPath": "/Users/asaberglund/Projects/Moment1/Moment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/asaberglund/.config/NuGet/NuGet.Config"
+          "/Users/asaberglund/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/Applications/Xcode.app/Contents/MacOS": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
