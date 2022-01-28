@@ -1,6 +1,35 @@
 ﻿@page
 @{
-    ViewData["Title"] = "Razor";
+
+    ViewData["Title"] = "Razor page";
+
+    string[] courses = { "ASP.NET med C# - dt071g", "Webbutveckling II - DT173G", "Webbdesign för CMS - DT152G" };
+
+
+    var date = DateTime.Now;
+    string dateString = date.ToString("yyyy-MM-dd");
+    string message;
+    if (date.DayOfWeek == DayOfWeek.Monday)
+    {
+        message = "Idag är det måndag";
+    }
+    else
+    {
+        message = "Idag är det inte måndag";
+    }
 }
 
 <h2>Razor page</h2>
+
+<h3>Datum:</h3>
+
+<p>Dagens datum är: @dateString <br /> @message</p>
+
+<h3>Kurser jag tidigare läst:</h3>
+
+
+<ul>
+    @foreach(var course in courses) { 
+    <li>@course</li>}
+</ul>
+

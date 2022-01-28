@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/asaberglund/Projects/Moment1/Moment1
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/asaberglund/Projects/Moment1/Moment1/Pages/shared/nav.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvc2hhcmVkL25hdi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/asaberglund/Projects/Moment1/Moment1/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
