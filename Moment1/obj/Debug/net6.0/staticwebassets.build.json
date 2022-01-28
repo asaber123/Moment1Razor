@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3V4Of+3F6WhqqIq3zGLb2jaiPPf1thx3jahgv6nzZyE=",
+  "Hash": "n00Y0xEG23+TczrHo6T1ngiHCfTwJpg3yPU1TzdyTV0=",
   "Source": "Moment1",
   "BasePath": "_content/Moment1",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/.DS_Store",
+      "SourceId": "Moment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/",
+      "BasePath": "_content/Moment1",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/css/.DS_Store",
+      "SourceId": "Moment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/",
+      "BasePath": "_content/Moment1",
+      "RelativePath": "css/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/.DS_Store"
+    },
     {
       "Identity": "/Users/asaberglund/Projects/Moment1/Moment1/wwwroot/css/styles.css",
       "SourceId": "Moment1",
